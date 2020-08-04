@@ -1,0 +1,9 @@
+O Python está ganhando o seu espaço, e a biblioteca Pandas está ficando cada vez mais famosa. Ela permite a criação de Data Frames como no R e a análise dos dados. Além disso, os nomes das funções são bem parecidos. Veja um exemplo de como calcular as Tendências Centrais com Pandas:
+>>> import pandas
+>>> df = pandas.DataFrame([1, 1, 50, 50, 50, 50, 50, 50, 50, 60, 60, 65, 70, 200, 250, 300, 700])
+>>> df.mean()
+121.0
+>>> df.median()
+50.0
+>>> df.quantile() #moda
+50.0
