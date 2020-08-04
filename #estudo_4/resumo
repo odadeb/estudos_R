@@ -1,6 +1,0 @@
-    Como funciona o cálculo de Média, com mean()
-    Como funciona o cálculo de mediana, com median()
-    Como descobrir se a distribuição é Normal ou não, utilizando shapiro.test()
-        Se p-value for abaixo de 0.05, a distribuição não é Normal
-        Se p-value for próximo de 1, a distribuição é Normal
-    Como resumir as informações de uma lista de dados utilizando summary()
